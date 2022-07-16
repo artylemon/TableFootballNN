@@ -1,0 +1,972 @@
+Model:  4-4-ao 
+
+Filename: count    80.000000
+mean      0.974080
+std       1.035593
+min       0.000197
+25%       0.321520
+50%       0.613644
+75%       1.268677
+max       6.218971
+Name: ao, dtype: float64 
+
+Model:  4-2-lo 
+
+Filename: count    80.000000
+mean      0.141993
+std       0.366348
+min       0.000843
+25%       0.034705
+50%       0.095559
+75%       0.149141
+max       3.308685
+Name: lo, dtype: float64 
+
+Model:  4-2-so 
+
+Filename: count    80.000000
+mean      0.074293
+std       0.040153
+min       0.002332
+25%       0.044692
+50%       0.074010
+75%       0.106499
+max       0.170202
+Name: so, dtype: float64 
+
+Model:  4-2-ao 
+
+Filename: count    80.000000
+mean      0.516965
+std       0.526638
+min       0.003248
+25%       0.219997
+50%       0.405101
+75%       0.690448
+max       3.831949
+Name: ao, dtype: float64 
+
+Model:  4-2-po 
+
+Filename: count    80.000000
+mean      0.009811
+std       0.006236
+min       0.000175
+25%       0.004496
+50%       0.009814
+75%       0.014378
+max       0.024954
+Name: po, dtype: float64 
+
+Model:  8-2-lo 
+
+Filename: count    80.000000
+mean      0.325333
+std       0.199501
+min       0.064698
+25%       0.165859
+50%       0.305672
+75%       0.424514
+max       1.488136
+Name: lo, dtype: float64 
+
+Model:  8-2-so 
+
+Filename: count    80.000000
+mean      0.232237
+std       0.110950
+min       0.011603
+25%       0.161959
+50%       0.239397
+75%       0.300521
+max       0.498072
+Name: so, dtype: float64 
+
+Model:  8-2-ao 
+
+Filename: count    80.000000
+mean      0.269700
+std       0.196899
+min       0.004092
+25%       0.110454
+50%       0.238911
+75%       0.368711
+max       0.891266
+Name: ao, dtype: float64 
+
+Model:  8-2-po 
+
+Filename: count    80.000000
+mean      0.010764
+std       0.007478
+min       0.000045
+25%       0.004960
+50%       0.009944
+75%       0.016135
+max       0.036714
+Name: po, dtype: float64 
+
+Model:  16-2-lo 
+
+Filename: count    80.000000
+mean      0.134032
+std       0.077048
+min       0.010834
+25%       0.071446
+50%       0.129393
+75%       0.173629
+max       0.316759
+Name: lo, dtype: float64 
+
+Model:  16-2-so 
+
+Filename: count    80.000000
+mean      0.299480
+std       0.203601
+min       0.011261
+25%       0.151826
+50%       0.239995
+75%       0.392869
+max       0.797540
+Name: so, dtype: float64 
+
+Model:  16-2-ao 
+
+Filename: count    80.000000
+mean      0.282524
+std       0.206384
+min       0.001452
+25%       0.120744
+50%       0.239902
+75%       0.429091
+max       0.881231
+Name: ao, dtype: float64 
+
+Model:  16-2-po 
+
+Filename: count    80.000000
+mean      0.014016
+std       0.009266
+min       0.000135
+25%       0.005537
+50%       0.012819
+75%       0.021662
+max       0.031911
+Name: po, dtype: float64 
+
+Model:  32-2-lo 
+
+Filename: count    80.000000
+mean      0.868623
+std       0.539873
+min       0.007822
+25%       0.450552
+50%       0.796731
+75%       1.210806
+max       2.023870
+Name: lo, dtype: float64 
+
+Model:  32-2-so 
+
+Filename: count    80.000000
+mean      1.243898
+std       0.477695
+min       0.434781
+25%       0.836231
+50%       1.224933
+75%       1.680813
+max       2.236200
+Name: so, dtype: float64 
+
+Model:  32-2-ao 
+
+Filename: count    80.000000
+mean      0.268499
+std       0.211878
+min       0.007329
+25%       0.068399
+50%       0.261219
+75%       0.427705
+max       0.784369
+Name: ao, dtype: float64 
+
+Model:  32-2-po 
+
+Filename: count    80.000000
+mean      0.009368
+std       0.005663
+min       0.000012
+25%       0.005450
+50%       0.009157
+75%       0.012556
+max       0.025846
+Name: po, dtype: float64 
+
+Model:  4-3-lo 
+
+Filename: count    80.000000
+mean      0.400285
+std       0.076833
+min       0.232743
+25%       0.340135
+50%       0.405130
+75%       0.463883
+max       0.538305
+Name: lo, dtype: float64 
+
+Model:  4-3-so 
+
+Filename: count    80.000000
+mean      1.001325
+std       0.420931
+min       0.081082
+25%       0.757654
+50%       0.963603
+75%       1.388190
+max       1.819433
+Name: so, dtype: float64 
+
+Model:  4-3-ao 
+
+Filename: count    80.000000
+mean      0.681305
+std       0.611056
+min       0.015289
+25%       0.268353
+50%       0.523563
+75%       0.956311
+max       3.703775
+Name: ao, dtype: float64 
+
+Model:  4-3-po 
+
+Filename: count    80.000000
+mean      0.006744
+std       0.005133
+min       0.000198
+25%       0.003348
+50%       0.005604
+75%       0.008737
+max       0.027669
+Name: po, dtype: float64 
+
+Model:  8-3-lo 
+
+Filename: count    80.000000
+mean      0.631088
+std       0.373995
+min       0.058535
+25%       0.324370
+50%       0.611439
+75%       0.817057
+max       2.500732
+Name: lo, dtype: float64 
+
+Model:  8-3-so 
+
+Filename: count    80.000000
+mean      1.665934
+std       0.958675
+min       0.000487
+25%       0.888066
+50%       1.674388
+75%       2.476757
+max       3.543878
+Name: so, dtype: float64 
+
+Model:  8-3-ao 
+
+Filename: count    80.000000
+mean      0.306311
+std       0.219834
+min       0.013754
+25%       0.142389
+50%       0.229177
+75%       0.457816
+max       0.883118
+Name: ao, dtype: float64 
+
+Model:  8-3-po 
+
+Filename: count    80.000000
+mean      0.005289
+std       0.003790
+min       0.000027
+25%       0.002094
+50%       0.004594
+75%       0.008577
+max       0.013834
+Name: po, dtype: float64 
+
+Model:  16-3-lo 
+
+Filename: count    80.000000
+mean      2.014121
+std       1.130236
+min       0.005438
+25%       1.279677
+50%       1.848594
+75%       3.064772
+max       4.751541
+Name: lo, dtype: float64 
+
+Model:  16-3-so 
+
+Filename: count    80.000000
+mean      2.114347
+std       0.496098
+min       1.251257
+25%       1.645163
+50%       2.093156
+75%       2.488405
+max       3.110335
+Name: so, dtype: float64 
+
+Model:  16-3-ao 
+
+Filename: count    80.000000
+mean      0.241265
+std       0.177829
+min       0.001915
+25%       0.099136
+50%       0.214055
+75%       0.374025
+max       0.731999
+Name: ao, dtype: float64 
+
+Model:  16-3-po 
+
+Filename: count    80.000000
+mean      0.011145
+std       0.005350
+min       0.000453
+25%       0.006836
+50%       0.011570
+75%       0.014168
+max       0.028993
+Name: po, dtype: float64 
+
+Model:  32-3-lo 
+
+Filename: count    80.000000
+mean      0.906787
+std       0.670343
+min       0.001621
+25%       0.312843
+50%       0.908608
+75%       1.266032
+max       2.510757
+Name: lo, dtype: float64 
+
+Model:  32-3-so 
+
+Filename: count    80.000000
+mean      1.689050
+std       1.069600
+min       0.113527
+25%       0.714726
+50%       1.689793
+75%       2.563248
+max       4.101416
+Name: so, dtype: float64 
+
+Model:  32-3-ao 
+
+Filename: count    80.000000
+mean      0.462328
+std       0.293012
+min       0.037615
+25%       0.205866
+50%       0.411769
+75%       0.685147
+max       1.208273
+Name: ao, dtype: float64 
+
+Model:  32-3-po 
+
+Filename: count    80.000000
+mean      0.017492
+std       0.003911
+min       0.009667
+25%       0.015089
+50%       0.017198
+75%       0.019014
+max       0.028723
+Name: po, dtype: float64 
+
+Model:  4-4-lo 
+
+Filename: count    80.000000
+mean      0.238923
+std       0.211387
+min       0.002508
+25%       0.082423
+50%       0.173905
+75%       0.338788
+max       1.395858
+Name: lo, dtype: float64 
+
+Model:  4-4-so 
+
+Filename: count    80.000000
+mean      0.640170
+std       0.405538
+min       0.004169
+25%       0.273484
+50%       0.611369
+75%       0.979460
+max       1.484644
+Name: so, dtype: float64 
+
+Model:  4-4-ao 
+
+Filename: count    80.000000
+mean      0.372009
+std       0.305380
+min       0.002224
+25%       0.172124
+50%       0.305306
+75%       0.501880
+max       1.753786
+Name: ao, dtype: float64 
+
+Model:  4-4-po 
+
+Filename: count    80.000000
+mean      0.150286
+std       0.078277
+min       0.000013
+25%       0.095504
+50%       0.155478
+75%       0.201501
+max       0.325426
+Name: po, dtype: float64 
+
+Model:  8-4-lo 
+
+Filename: count    80.000000
+mean      0.767154
+std       0.417827
+min       0.000803
+25%       0.415124
+50%       0.764035
+75%       1.122237
+max       1.548324
+Name: lo, dtype: float64 
+
+Model:  8-4-so 
+
+Filename: count    80.000000
+mean      0.756934
+std       0.109476
+min       0.573786
+25%       0.655395
+50%       0.752161
+75%       0.844237
+max       0.967218
+Name: so, dtype: float64 
+
+Model:  8-4-ao 
+
+Filename: count    80.000000
+mean      0.266264
+std       0.214527
+min       0.000736
+25%       0.090284
+50%       0.222266
+75%       0.364054
+max       0.813850
+Name: ao, dtype: float64 
+
+Model:  8-4-po 
+
+Filename: count    80.000000
+mean      0.015811
+std       0.004458
+min       0.001214
+25%       0.013333
+50%       0.014764
+75%       0.017330
+max       0.031071
+Name: po, dtype: float64 
+
+Model:  16-4-lo 
+
+Filename: count    80.000000
+mean      2.251105
+std       1.863414
+min       0.067090
+25%       0.695947
+50%       1.813997
+75%       3.677999
+max       6.862901
+Name: lo, dtype: float64 
+
+Model:  16-4-so 
+
+Filename: count    80.000000
+mean      0.872353
+std       0.550911
+min       0.011420
+25%       0.429284
+50%       0.852229
+75%       1.366026
+max       2.040705
+Name: so, dtype: float64 
+
+Model:  16-4-ao 
+
+Filename: count    80.000000
+mean      0.267177
+std       0.200373
+min       0.000557
+25%       0.105781
+50%       0.233525
+75%       0.362229
+max       0.920761
+Name: ao, dtype: float64 
+
+Model:  16-4-po 
+
+Filename: count    80.000000
+mean      0.035951
+std       0.008907
+min       0.021232
+25%       0.029776
+50%       0.033440
+75%       0.041319
+max       0.061627
+Name: po, dtype: float64 
+
+Model:  32-4-lo 
+
+Filename: count    80.000000
+mean      3.541109
+std       1.315694
+min       1.467363
+25%       2.259268
+50%       3.415440
+75%       4.524106
+max       6.130846
+Name: lo, dtype: float64 
+
+Model:  32-4-so 
+
+Filename: count    80.000000
+mean      2.254744
+std       1.007005
+min       0.037348
+25%       1.598609
+50%       2.303133
+75%       2.952454
+max       4.328696
+Name: so, dtype: float64 
+
+Model:  32-4-ao 
+
+Filename: count    80.000000
+mean      0.265410
+std       0.233974
+min       0.003822
+25%       0.054964
+50%       0.190551
+75%       0.467035
+max       0.913468
+Name: ao, dtype: float64 
+
+Model:  32-4-po 
+
+Filename: count    80.000000
+mean      0.028915
+std       0.009556
+min       0.018385
+25%       0.023045
+50%       0.024820
+75%       0.034481
+max       0.066681
+Name: po, dtype: float64 
+
+Model:  4-5-lo 
+
+Filename: count     80.000000
+mean      55.171176
+std       28.318917
+min        0.054603
+25%       32.189971
+50%       53.613550
+75%       75.037129
+max      107.063292
+Name: lo, dtype: float64 
+
+Model:  4-5-so 
+
+Filename: count    80.000000
+mean      0.164253
+std       0.132581
+min       0.001584
+25%       0.036133
+50%       0.135756
+75%       0.270306
+max       0.475256
+Name: so, dtype: float64 
+
+Model:  4-5-ao 
+
+Filename: count    80.000000
+mean      0.536191
+std       0.398089
+min       0.037945
+25%       0.248168
+50%       0.461732
+75%       0.665056
+max       2.121431
+Name: ao, dtype: float64 
+
+Model:  4-5-po 
+
+Filename: count    80.000000
+mean      0.004232
+std       0.003495
+min       0.000112
+25%       0.001542
+50%       0.003476
+75%       0.005983
+max       0.019723
+Name: po, dtype: float64 
+
+Model:  8-5-lo 
+
+Filename: count    80.000000
+mean      0.944372
+std       0.565276
+min       0.009924
+25%       0.507161
+50%       0.908882
+75%       1.308800
+max       2.369673
+Name: lo, dtype: float64 
+
+Model:  8-5-so 
+
+Filename: count    80.000000
+mean      2.991597
+std       1.649709
+min       0.024371
+25%       1.887432
+50%       2.858386
+75%       4.507073
+max       6.378015
+Name: so, dtype: float64 
+
+Model:  8-5-ao 
+
+Filename: count    80.000000
+mean      0.313525
+std       0.247601
+min       0.013245
+25%       0.156849
+50%       0.233403
+75%       0.398219
+max       1.143639
+Name: ao, dtype: float64 
+
+Model:  8-5-po 
+
+Filename: count    80.000000
+mean      0.043518
+std       0.007805
+min       0.022910
+25%       0.038169
+50%       0.043808
+75%       0.050347
+max       0.058390
+Name: po, dtype: float64 
+
+Model:  16-5-lo 
+
+Filename: count    80.000000
+mean      1.860404
+std       1.012111
+min       0.049911
+25%       0.964171
+50%       1.777765
+75%       2.569138
+max       3.913438
+Name: lo, dtype: float64 
+
+Model:  16-5-so 
+
+Filename: count    80.000000
+mean      6.770718
+std       3.181998
+min       1.508671
+25%       4.039062
+50%       7.251576
+75%       9.583357
+max      11.874903
+Name: so, dtype: float64 
+
+Model:  16-5-ao 
+
+Filename: count    80.000000
+mean      0.358714
+std       0.285175
+min       0.009449
+25%       0.128652
+50%       0.304958
+75%       0.526256
+max       1.124620
+Name: ao, dtype: float64 
+
+Model:  16-5-po 
+
+Filename: count    80.000000
+mean      0.009460
+std       0.006032
+min       0.000225
+25%       0.005409
+50%       0.008132
+75%       0.012188
+max       0.026565
+Name: po, dtype: float64 
+
+Model:  32-5-lo 
+
+Filename: count    80.000000
+mean      1.120291
+std       0.767776
+min       0.013928
+25%       0.474023
+50%       0.966199
+75%       1.783068
+max       3.265838
+Name: lo, dtype: float64 
+
+Model:  32-5-so 
+
+Filename: count    80.000000
+mean      1.074727
+std       0.763308
+min       0.030556
+25%       0.419212
+50%       0.932778
+75%       1.588725
+max       2.862044
+Name: so, dtype: float64 
+
+Model:  32-5-ao 
+
+Filename: count    80.000000
+mean      0.249720
+std       0.201431
+min       0.002724
+25%       0.094577
+50%       0.190038
+75%       0.349273
+max       0.794690
+Name: ao, dtype: float64 
+
+Model:  32-5-po 
+
+Filename: count    80.000000
+mean      0.017338
+std       0.011985
+min       0.000339
+25%       0.008488
+50%       0.014267
+75%       0.026037
+max       0.045482
+Name: po, dtype: float64 
+
+Model:  4-6-lo 
+
+Filename: count    80.000000
+mean      1.061546
+std       0.500526
+min       0.295725
+25%       0.580317
+50%       1.032247
+75%       1.480797
+max       2.003768
+Name: lo, dtype: float64 
+
+Model:  4-6-so 
+
+Filename: count    80.000000
+mean      0.702327
+std       0.496796
+min       0.018994
+25%       0.266508
+50%       0.623953
+75%       1.089327
+max       1.886267
+Name: so, dtype: float64 
+
+Model:  4-6-ao 
+
+Filename: count    80.000000
+mean      0.384019
+std       0.274317
+min       0.000915
+25%       0.153756
+50%       0.340745
+75%       0.555831
+max       1.110563
+Name: ao, dtype: float64 
+
+Model:  4-6-po 
+
+Filename: count    80.000000
+mean      0.013196
+std       0.007213
+min       0.000191
+25%       0.008207
+50%       0.013580
+75%       0.017040
+max       0.036562
+Name: po, dtype: float64 
+
+Model:  8-6-lo 
+
+Filename: count    80.000000
+mean      0.932697
+std       0.642440
+min       0.003765
+25%       0.423988
+50%       0.884781
+75%       1.447324
+max       2.500043
+Name: lo, dtype: float64 
+
+Model:  8-6-so 
+
+Filename: count    80.000000
+mean      3.678158
+std       1.090271
+min       1.452352
+25%       2.986304
+50%       3.661145
+75%       4.657023
+max       5.772650
+Name: so, dtype: float64 
+
+Model:  8-6-ao 
+
+Filename: count    80.000000
+mean      0.362639
+std       0.291596
+min       0.008428
+25%       0.155759
+50%       0.333228
+75%       0.472535
+max       1.473848
+Name: ao, dtype: float64 
+
+Model:  8-6-po 
+
+Filename: count    80.000000
+mean      0.017275
+std       0.008689
+min       0.001663
+25%       0.011001
+50%       0.013821
+75%       0.023865
+max       0.041616
+Name: po, dtype: float64 
+
+Model:  16-6-lo 
+
+Filename: count    80.000000
+mean      1.737551
+std       1.093431
+min       0.004412
+25%       0.842807
+50%       1.678405
+75%       2.635395
+max       3.854143
+Name: lo, dtype: float64 
+
+Model:  16-6-so 
+
+Filename: count    80.000000
+mean      4.523275
+std       2.971932
+min       0.162237
+25%       2.254878
+50%       4.199264
+75%       5.943619
+max      13.023199
+Name: so, dtype: float64 
+
+Model:  16-6-ao 
+
+Filename: count    80.000000
+mean      0.288483
+std       0.227725
+min       0.002495
+25%       0.083087
+50%       0.241686
+75%       0.431068
+max       1.002970
+Name: ao, dtype: float64 
+
+Model:  16-6-po 
+
+Filename: count    80.000000
+mean      0.032518
+std       0.012821
+min       0.000764
+25%       0.024363
+50%       0.031397
+75%       0.043001
+max       0.061211
+Name: po, dtype: float64 
+
+Model:  32-6-lo 
+
+Filename: count    80.000000
+mean      0.848717
+std       0.495834
+min       0.021463
+25%       0.344289
+50%       0.882003
+75%       1.360571
+max       1.820788
+Name: lo, dtype: float64 
+
+Model:  32-6-so 
+
+Filename: count    80.000000
+mean      5.858980
+std       2.788254
+min       0.927653
+25%       3.510364
+50%       6.266202
+75%       8.260725
+max      10.079462
+Name: so, dtype: float64 
+
+Model:  32-6-ao 
+
+Filename: count    80.000000
+mean      0.434233
+std       0.306676
+min       0.017270
+25%       0.205140
+50%       0.366153
+75%       0.582981
+max       1.227274
+Name: ao, dtype: float64 
+
+Model:  32-6-po 
+
+Filename: count    80.000000
+mean      0.007993
+std       0.007430
+min       0.000001
+25%       0.002137
+50%       0.004953
+75%       0.012617
+max       0.031003
+Name: po, dtype: float64 
+
