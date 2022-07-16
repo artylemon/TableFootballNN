@@ -59,26 +59,13 @@ def train_and_save_model(model, features, labels, name):
         features,
         labels,
         validation_split=0.2,
-        verbose=1, epochs=500)
-
-    # plotting the history of loss function
-    def plot_loss(history, img_name):
-        plt.plot(history.history['loss'], label='loss')
-        plt.plot(history.history['val_loss'], label='val_loss')
-        plt.ylim([0, 10])
-        plt.xlabel('Epoch')
-        plt.ylabel('Error')
-        plt.legend()
-        plt.grid(True)
-        plt.savefig(img_name + '.png')
-
-    plot_loss(loss, name)
+        verbose=0, epochs=500)
 
     model.save(name)
 
 
 def test_model(model, features, labels, name):
-    predictions = model.predict(features)
+    predictions = model.predict(features).flatten()
 
     error = predictions - labels
     print("Model: ", name, "\n")
